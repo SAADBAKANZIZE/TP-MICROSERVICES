@@ -5,6 +5,8 @@ This repository contains the code for an eureka server, a gateway and two servic
 ## Overview
 
 This project consists of a Eureka Server, a Gateway, and two services that communicate with each other. The first service, "Car Service," interacts with a MySQL database, while the second service, "Client Service," communicates with another MySQL database. The Eureka interface allows you to view all the launched services.
+![image](https://github.com/SAADBAKANZIZE/TP-MICROSERVICES/assets/101594125/4bc6ae00-ab27-4f0e-960f-4176bc94954f)
+
 
 ## Technologies Used
 
