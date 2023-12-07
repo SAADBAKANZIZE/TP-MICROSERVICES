@@ -1,7 +1,6 @@
 # TP-MICROSERVICES
 This repository contains the code for an eureka server, a gateway and two services
 
-Certainly! Let's structure your README file in English based on the information you provided:
 
 # Project Title
 
