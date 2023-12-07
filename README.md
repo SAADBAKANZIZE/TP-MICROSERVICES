@@ -19,6 +19,13 @@ This project consists of a Eureka Server, a Gateway, and two services that commu
 - **Gateway:** Acts as an entry point for accessing microservices.
 - **Car Service:** Handles interactions with a MySQL database for car-related data.
 - **Client Service:** Manages interactions with a MySQL database for client-related data.
+  
+## URLs
+
+-**Eureka Server:** http://localhost:8761
+-**Gateway:** http://localhost:8888
+-**Car Service:** http://localhost:8089
+-**Client Service:** http://localhost:8088
 
 ## Testing
 
