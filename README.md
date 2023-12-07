@@ -2,8 +2,6 @@
 This repository contains the code for an eureka server, a gateway and two services
 
 
-# Project Title
-
 ## Overview
 
 This project consists of a Eureka Server, a Gateway, and two services that communicate with each other. The first service, "Car Service," interacts with a MySQL database, while the second service, "Client Service," communicates with another MySQL database. The Eureka interface allows you to view all the launched services.
